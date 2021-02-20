@@ -1,10 +1,10 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import Movies from './Components/movies'
 
 function App() {
   return (
-    <main class='Container'>
+    <main className='Container'>
       <Movies/>
     </main>
   );
